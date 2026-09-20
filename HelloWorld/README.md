@@ -1,16 +1,43 @@
-# Overview
+# Hello World
 
-This is a basic Hello World program.  I created this to demostrate the use of Visual Studio Code, GitHub, and Python integrated together. 
+A short code that print the statement "Hello World"
 
-You can watch a demo of my software here: [Software Demo Video](https://youtu.be/Zu2S0SpOX2o)
+## Instructions for Build and Use
 
-# Development Environment
+Steps to build and/or run the software:
+
+1. Open Visual Studio Code.
+2. Open the HelloWorld folder.
+3. Open the hello.py file.
+4. Make sure the file contains print("Hello World").
+5. Click the Run Python File button.
+
+Instructions for using the software:
+
+1. Run the hello.py file.
+2. Look at the terminal at the bottom of Visual Studio Code.
+3. The program will display "Hello World."
+
+## Development Environment
+
+To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
 * Visual Studio Code
-* Python 3.13.11
-* Git / GitHub
+* Python 3
+* Python extension for Visual Studio Code
 
-# Useful Websites
+## Useful Websites to Learn More
 
-* [Visual Studio download](https://code.visualstudio.com/download)
-* [Python 3.13 Standard Library Manuel](https://docs.python.org/3.13/library/index.html)
+I found these websites useful in developing this software:
+
+* [Python Documentation](https://docs.python.org/3/)
+* [Visual Studio Code Python Documentation](https://code.visualstudio.com/docs/languages/python)
+
+
+## Future Work
+
+The following items I plan to fix, improve, and/or add to this project in the future:
+
+* [ ] Add a way for the user to enter their name.
+* [ ] Make the program print a personalized greeting.
+* [ ] Add more messages to the program.
